@@ -1,3 +1,0 @@
-{
-    console.print("hello world");
-}
